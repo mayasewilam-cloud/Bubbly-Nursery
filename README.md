@@ -1,4 +1,10 @@
-# vinext-starter
+# Bubbly Adventure Club
+
+**[Open the live Bubbly app](https://bubbly-adventure-club.ovalanchovy16.chatgpt.site/)**
+
+The live app uses ChatGPT sign-in and the nursery’s access permissions. GitHub Pages displays this project’s documentation.
+
+## Developer setup
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
 
